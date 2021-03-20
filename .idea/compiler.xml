@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dongyimaidao" />
+        <module name="dongyimai_sms_service" />
+        <module name="dongyimaiuserservice" />
+        <module name="dongyimaipayservice" />
+        <module name="dongyimaicartinterface" />
+        <module name="dongyimaicommon" />
+        <module name="dongyimaicartweb" />
+        <module name="dongyimaiorderinterface" />
+        <module name="dongyimaipageweb" />
+        <module name="dongyimaisearchinterface" />
+        <module name="dongyimaiorderservice" />
+        <module name="dongyimaicontentinterface" />
+        <module name="dongyimaisellergoodsservice" />
+        <module name="dongyimaicontentservice" />
+        <module name="dongyimaiuserweb" />
+        <module name="dongyimaiprotalweb" />
+        <module name="dongyimaimangerweb" />
+        <module name="dongyimaisearchservice" />
+        <module name="dongyimaicartservice" />
+        <module name="dongyimaishopweb" />
+        <module name="dongyimaisearchweb" />
+        <module name="dongyimai_solr_util" />
+        <module name="dongyimaiuserinterface" />
+        <module name="dongyimaipageservice" />
+        <module name="dongyimaipayinterface" />
+        <module name="dongyimaipojo" />
+        <module name="dongyimaipageinterface" />
+        <module name="dongyimaisellergoodsinterface" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dongyimai-cart-interface" target="1.7" />
+      <module name="dongyimaimanagerweb" target="1.7" />
+      <module name="dongyimaimangerweb (1)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

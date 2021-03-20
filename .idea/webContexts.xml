@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/dongyimaicartweb/src/main/webapp/cart.html" value="file://$PROJECT_DIR$/dongyimaicartweb/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/dongyimaimanagerweb/src/main/webapp/admin/index.html" value="file://$PROJECT_DIR$/dongyimaimanagerweb/src/main/webapp/admin" />
+        <entry key="file://$PROJECT_DIR$/dongyimaimanagerweb/src/main/webapp/admin/seller_1.html" value="file://$PROJECT_DIR$/dongyimaimanagerweb/src/main/webapp/admin" />
+        <entry key="file://$PROJECT_DIR$/dongyimaipageweb/src/main/webapp/149187842867963.html" value="file://$PROJECT_DIR$/dongyimaipageweb/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/dongyimaipageweb/src/main/webapp/149187842867971.html" value="file://$PROJECT_DIR$/dongyimaipageweb/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/dongyimaipageweb/src/main/webapp/149187842867972.html" value="file://$PROJECT_DIR$/dongyimaipageweb/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/dongyimaipageweb/src/main/webapp/cart.html" value="file://$PROJECT_DIR$/dongyimaipageweb/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/dongyimaishopweb/src/main/webapp/admin/index.html" value="file://$PROJECT_DIR$/dongyimaishopweb/src/main/webapp/admin" />
+        <entry key="file://$PROJECT_DIR$/dongyimaishopweb/src/main/webapp/shoplogin.html" value="file://$PROJECT_DIR$/dongyimaishopweb/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/dongyimaiuserweb/src/main/webapp/login.html" value="file://$PROJECT_DIR$/dongyimaiuserweb/src/main/webapp" />
+      </map>
+    </option>
+  </component>
+</project>
