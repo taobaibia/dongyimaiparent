@@ -30,7 +30,8 @@ public class GoodsController {
 	 * @return
 	 */
 	@RequestMapping("/findAll")
-	public List<TbGoods> findAll(){			
+	public List<TbGoods> findAll(){
+		System.out.println("查询全部列表");
 		return goodsService.findAll();
 	}
 	
